@@ -13,4 +13,6 @@ A beautiful custom splash screen built using **Jetpack Compose** and **Lottie an
 
 ---
 
-[![Splash Screen Demo](https://www.youtube.com/watch?v=--128IOLQiw)
+## 🎬 Demo
+
+[![Splash Screen Demo](https://img.youtube.com/vi/--128IOLQiw/0.jpg)](https://www.youtube.com/watch?v=--128IOLQiw)
